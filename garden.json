@@ -96,7 +96,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.sipgate.org\/f94_unterm-dach"
+                 "value":"unterm-dach"
                 }],
          "type":"tilelayer",
          "visible":true,
